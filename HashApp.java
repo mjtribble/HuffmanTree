@@ -9,10 +9,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- *
- * @author melodytribble
- */
 public class HashApp {
     
     public static HashTable hash;
